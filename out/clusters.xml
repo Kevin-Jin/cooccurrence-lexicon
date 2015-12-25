@@ -1,0 +1,887 @@
+<?xml version="1.0" ?>
+<clusters>
+  <cluster>
+    <entity label="0.12" degree="3.4447669982910156">UAL Corp .</entity>
+    <entity label="0.16" degree="3.059264659881592">Northwest 's Airlines</entity>
+    <entity label="0.13" degree="3.0444705486297607">AMR Corp .</entity>
+    <entity label="0.5" degree="2.7381234765052795">Delta Air Lines</entity>
+    <entity label="0.3" degree="2.689566731452942">American Airlines</entity>
+    <entity label="0.9" degree="2.4081881046295166">British Airways PLC</entity>
+    <entity label="0.20" degree="2.0315529704093933">Japan Air Lines</entity>
+    <entity label="0.2" degree="1.9475958943367004">Midway Airlines Inc.</entity>
+    <entity label="0.6" degree="1.6742098331451416">Lufthansa AG</entity>
+    <entity label="0.14" degree="1.6080846786499023">Air France</entity>
+    <entity label="0.10" degree="1.3850347399711609">KLM Royal Dutch Airlines</entity>
+    <entity label="0.11" degree="1.3275363445281982">United Air Lines</entity>
+    <entity label="0.7" degree="1.202572762966156">American Bell Telephone Co.</entity>
+    <entity label="0.1" degree="0.8115862607955933">NWA Corp.</entity>
+    <entity label="0.8" degree="0.7934806942939758">Southwest Airlines</entity>
+    <entity label="0.17" degree="0.7210268974304199">McDonnell Douglas Corp .</entity>
+    <entity label="0.18" degree="0.6958206295967102">Western Union Telegraph</entity>
+    <entity label="0.4" degree="0.5407919883728027">Benjamin Jacobson</entity>
+    <entity label="0.15" degree="0.5046921968460083">Benjamin Jacobson &amp; Sons</entity>
+  </cluster>
+  <cluster>
+    <entity label="1.1" degree="1.5378506779670715">Fidelity Investments</entity>
+    <entity label="1.3" degree="0.8088716268539429">Hammond Co.</entity>
+    <entity label="1.2" degree="0.7289790511131287">T. Rowe Price Associates Inc .</entity>
+  </cluster>
+  <cluster>
+    <entity label="2.23" degree="6.490974247455597">Bloomingdale 's</entity>
+    <entity label="2.5" degree="6.332054495811462">B. Altman &amp; Co.</entity>
+    <entity label="2.2" degree="5.716416299343109">Campeau-related</entity>
+    <entity label="2.12" degree="5.09626966714859">L.J. Hooker International</entity>
+    <entity label="2.20" degree="4.281084060668945">Saks Fifth Avenue</entity>
+    <entity label="2.8" degree="4.273203730583191">Marshall Field 's</entity>
+    <entity label="2.3" degree="4.020440578460693">B.A.T Industries PLC</entity>
+    <entity label="2.15" degree="3.448040187358856">Bonwit Teller</entity>
+    <entity label="2.19" degree="3.1082698702812195">Allied Stores Corp.</entity>
+    <entity label="2.9" degree="2.7260542511940002">Olympia &amp; York Developments Ltd .</entity>
+    <entity label="2.4" degree="2.3387829065322876">Tokyu Department Store Co.</entity>
+    <entity label="2.25" degree="2.2875505685806274">Saks .</entity>
+    <entity label="2.14" degree="2.1433417797088623">Federated Investors Corp.</entity>
+    <entity label="2.22" degree="1.6905410289764404">Axa .</entity>
+    <entity label="2.10" degree="1.6041964888572693">Nihon Keizai Shimbun</entity>
+    <entity label="2.21" degree="1.481285572052002">Farmers Group Inc.</entity>
+    <entity label="2.24" degree="1.4802954196929932">Hoylake Investments Ltd.</entity>
+    <entity label="2.17" degree="1.463375985622406">Sakowitz Inc.</entity>
+    <entity label="2.1" degree="1.4376530051231384">Gillette Holdings</entity>
+    <entity label="2.7" degree="0.87337327003479">Takashima &amp; Co .</entity>
+    <entity label="2.18" degree="0.8732781410217285">ITEL CORP.</entity>
+    <entity label="2.16" degree="0.8266391158103943">Federated Department Stores Inc.</entity>
+    <entity label="2.6" degree="0.8035096526145935">Parisian Inc.</entity>
+    <entity label="2.13" degree="0.7529643177986145">Merksamer Jewelers Inc.</entity>
+    <entity label="2.11" degree="0.6289903521537781">Tokyu Group</entity>
+  </cluster>
+  <cluster>
+    <entity label="3.5" degree="2.185826361179352">Mitsubishi Estate Co.</entity>
+    <entity label="3.3" degree="1.4486720561981201">Mitsubishi International Corp.</entity>
+    <entity label="3.1" degree="0.9119530320167542">Rockefeller Group Inc.</entity>
+    <entity label="3.2" degree="0.8984158635139465">Candela Laser Corp.</entity>
+    <entity label="3.4" degree="0.7236171364784241">Mitsui Real Estate Development</entity>
+  </cluster>
+  <cluster>
+    <entity label="4.2" degree="1.9065316915512085">Dillard Department Stores Inc.</entity>
+    <entity label="4.1" degree="1.8597975373268127">Mesa Limited Partnership</entity>
+  </cluster>
+  <cluster>
+    <entity label="5.3" degree="2.452501118183136">Great Western Financial Corp.</entity>
+    <entity label="5.2" degree="1.7137879729270935">H.F. Ahmanson &amp; Co.</entity>
+    <entity label="5.1" degree="1.6748873591423035">Golden West Financial Corp.</entity>
+    <entity label="5.5" degree="1.6742927432060242">Great Western Bank</entity>
+    <entity label="5.4" degree="0.8476536273956299">CenTrust Bank</entity>
+  </cluster>
+  <cluster>
+    <entity label="6.1" degree="1.74674654006958">Rochester Telephone Corp.</entity>
+    <entity label="6.2" degree="0.87337327003479">Viroqua Telephone Co.</entity>
+  </cluster>
+  <cluster>
+    <entity label="7.4" degree="4.331264793872833">Citicorp</entity>
+    <entity label="7.5" degree="1.7139235734939575">Minpeco-Manufacturers Hanover</entity>
+    <entity label="7.6" degree="1.457086205482483">Chase Manhattan Bank N.A.</entity>
+    <entity label="7.9" degree="1.4379447102546692">Manufacturers Hanover Securities Corp .</entity>
+    <entity label="7.1" degree="1.3916412591934204">Xerox Corp.</entity>
+    <entity label="7.11" degree="1.292248249053955">Citicorp Investment Bank</entity>
+    <entity label="7.10" degree="0.8556057810783386">Crum &amp; Forster</entity>
+    <entity label="7.7" degree="0.8035096526145935">Manufacturers Hanover Trust Co.</entity>
+    <entity label="7.2" degree="0.6336955428123474">Matilda Publications Inc.</entity>
+    <entity label="7.8" degree="0.6127892732620239">Quotron Systems Inc.</entity>
+  </cluster>
+  <cluster>
+    <entity label="8.1" degree="2.4712048768997192">Delmed Inc.</entity>
+    <entity label="8.4" degree="0.9411023259162903">Fresenius USA Inc.</entity>
+    <entity label="8.2" degree="0.7833560109138489">National Medical Enterprises Inc.</entity>
+    <entity label="8.3" degree="0.7467465400695801">National Medical Care Inc</entity>
+  </cluster>
+  <cluster>
+    <entity label="9.2" degree="2.2441214323043823">Appleyard</entity>
+    <entity label="9.3" degree="0.8501036167144775">Quickview Systems Inc.</entity>
+    <entity label="9.1" degree="0.7603222727775574">Macintosh</entity>
+    <entity label="9.4" degree="0.6336955428123474">Adobe Systems Inc .</entity>
+  </cluster>
+  <cluster>
+    <entity label="10.2" degree="1.6808010339736938">Montedison Acquisition N.V.</entity>
+    <entity label="10.1" degree="0.8996636271476746">Erbamont N.V.</entity>
+    <entity label="10.3" degree="0.7811374068260193">Himont Inc.</entity>
+  </cluster>
+  <cluster>
+    <entity label="11.5" degree="2.8115735054016113">McGraw-Hill Inc .</entity>
+    <entity label="11.11" degree="2.6952697038650513">Chrysler Motors</entity>
+    <entity label="11.8" degree="2.280634045600891">Maxwell Communication Corp .</entity>
+    <entity label="11.13" degree="2.2176228761672974">Macmillan/McGraw-Hill</entity>
+    <entity label="11.12" degree="1.6317737698554993">Quebecor Inc.</entity>
+    <entity label="11.9" degree="1.6078807711601257">Maxwell Graphics Inc.</entity>
+    <entity label="11.6" degree="1.3168588280677795">F.W. Dodge Group</entity>
+    <entity label="11.4" degree="0.8523514866828918">Berlitz International Inc.</entity>
+    <entity label="11.7" degree="0.8323813080787659">MMS International</entity>
+    <entity label="11.3" degree="0.7704349756240845">Jasper Jeep-Eagle</entity>
+    <entity label="11.10" degree="0.7135881185531616">Reuters</entity>
+    <entity label="11.2" degree="0.6878684759140015">Mitsubishi Motors Corp.</entity>
+    <entity label="11.1" degree="0.6079759001731873">American Motors Corp.</entity>
+  </cluster>
+  <cluster>
+    <entity label="12.1" degree="1.7080137729644775">Dataproducts Corp.</entity>
+    <entity label="12.3" degree="1.617042899131775">DPC Acquisition Partners</entity>
+    <entity label="12.2" degree="0.8587319254875183">DPC</entity>
+    <entity label="12.4" degree="0.7677610516548157">Crescott Investments Associates</entity>
+  </cluster>
+  <cluster>
+    <entity label="13.15" degree="4.494092285633087">Chevron Corp.</entity>
+    <entity label="13.10" degree="3.00776869058609">Royal Dutch/Shell Group</entity>
+    <entity label="13.2" degree="2.668048620223999">Exxon Capital Corp.</entity>
+    <entity label="13.6" degree="2.660717010498047">Shell Canada Ltd.</entity>
+    <entity label="13.4" degree="2.036065101623535">Eastman Kodak Co.</entity>
+    <entity label="13.7" degree="1.813063383102417">Esso Resources Canada Ltd.</entity>
+    <entity label="13.9" degree="1.4646846055984497">Archer-Daniels-Midland Co.</entity>
+    <entity label="13.11" degree="0.8144952058792114">Showa Shell</entity>
+    <entity label="13.3" degree="0.753334641456604">Esso Australia Ltd.</entity>
+    <entity label="13.5" degree="0.7398401498794556">Polaroid Corp.</entity>
+    <entity label="13.14" degree="0.7135881185531616">Amoco Oil Co.</entity>
+    <entity label="13.1" degree="0.6804296970367432">Shell Oil Co .</entity>
+  </cluster>
+  <cluster>
+    <entity label="14.1" degree="1.59336918592453">Pan American World Airways</entity>
+    <entity label="14.2" degree="1.5134766101837158">Pan Am Corp .</entity>
+    <entity label="14.3" degree="1.413600504398346">Trans World Airlines Inc.</entity>
+  </cluster>
+  <cluster>
+    <entity label="15.2" degree="1.6475456357002258">Monsanto Co.</entity>
+    <entity label="15.3" degree="1.564488708972931">Rhone-Poulenc S.A .</entity>
+    <entity label="15.1" degree="0.8975521326065063">G.D. Searle &amp; Co.</entity>
+    <entity label="15.4" degree="0.8144952058792114">RTZ Chemicals</entity>
+  </cluster>
+  <cluster>
+    <entity label="16.3" degree="2.9206693172454834">K mart Corp .</entity>
+    <entity label="16.4" degree="1.3201321959495544">Pacific exchange</entity>
+    <entity label="16.5" degree="1.2612541317939758">Options Clearing Corp.</entity>
+    <entity label="16.2" degree="0.7934806942939758">Pace Membership Warehouse Inc.</entity>
+    <entity label="16.7" degree="0.7135881185531616">Wal-Mart Stores Inc .</entity>
+    <entity label="16.1" degree="0.5612417459487915">American Stock Exchange .</entity>
+  </cluster>
+  <cluster>
+    <entity label="17.1" degree="1.8861506581306458">Falconbridge Ltd .</entity>
+    <entity label="17.3" degree="1.8321137428283691">Noranda Inc.</entity>
+    <entity label="17.2" degree="1.812248170375824">Trelleborg AB</entity>
+  </cluster>
+  <cluster>
+    <entity label="18.2" degree="2.392396867275238">Dresdner Bank AG</entity>
+    <entity label="18.3" degree="1.61615651845932">Banque Internationale des Placements</entity>
+    <entity label="18.6" degree="1.4561429023742676">Credit Lyonnais Australia Ltd .</entity>
+    <entity label="18.4" degree="1.4247996807098389">Societe Generale Australia Ltd .</entity>
+    <entity label="18.5" degree="0.7706167697906494">Deutsche Bank Group</entity>
+    <entity label="18.7" degree="0.7603222727775574">Thomson-CSF Finance</entity>
+    <entity label="18.1" degree="0.7346026301383972">Commerzbank AG</entity>
+  </cluster>
+  <cluster>
+    <entity label="19.4" degree="4.642349898815155">RJR Nabisco Broadcast</entity>
+    <entity label="19.2" degree="3.4143146276474">Kohlberg Kravis Roberts &amp; Co. ,</entity>
+    <entity label="19.13" degree="2.8742902874946594">SCI Systems</entity>
+    <entity label="19.8" degree="1.7378101348876953">Pinkerton 's Inc .</entity>
+    <entity label="19.9" degree="1.3835519552230835">Gillett Corp</entity>
+    <entity label="19.3" degree="1.369690477848053">AMERICAN BRANDS Inc.</entity>
+    <entity label="19.10" degree="1.3049829006195068">Storer Communications Inc.</entity>
+    <entity label="19.1" degree="0.8852174878120422">California Plant Protection</entity>
+    <entity label="19.11" degree="0.7485719919204712">Planters LifeSavers Co.</entity>
+    <entity label="19.7" degree="0.7135881185531616">Del Monte</entity>
+    <entity label="19.6" degree="0.7085244059562683">Nestle Foods Corp.</entity>
+    <entity label="19.5" degree="0.645041823387146">Seaman Furniture</entity>
+  </cluster>
+  <cluster>
+    <entity label="20.5" degree="2.933019518852234">Ciba-Geigy Corp.</entity>
+    <entity label="20.4" degree="2.349867045879364">Chiron Corp .</entity>
+    <entity label="20.2" degree="2.3072806000709534">Connaught BioSciences Inc.</entity>
+    <entity label="20.1" degree="1.5151844024658203">Institut Merieux S.A.</entity>
+    <entity label="20.3" degree="0.8035096526145935">Cetus Corp.</entity>
+    <entity label="20.6" degree="0.7879192233085632">Ciba Corning Diagnostics Corp.</entity>
+  </cluster>
+  <cluster>
+    <entity label="21.3" degree="1.6289904117584229">Donaldson , Lufkin &amp; Jenrette Securities Corp .</entity>
+    <entity label="21.1" degree="0.8144952058792114">Security Pacific National Bank</entity>
+  </cluster>
+  <cluster>
+    <entity label="22.2" degree="1.9161413311958313">Emerson Electric Co.</entity>
+    <entity label="22.1" degree="1.8754984736442566">Robert Bosch G.m.b.H.</entity>
+    <entity label="22.3" degree="1.8475456237792969">Vermont American Corp.</entity>
+  </cluster>
+  <cluster>
+    <entity label="23.4" degree="3.479411780834198">Bethlehem Steel Corp.</entity>
+    <entity label="23.2" degree="3.17612761259079">USX Corp.</entity>
+    <entity label="23.10" degree="2.6199986338615417">Armco Steel Co.</entity>
+    <entity label="23.1" degree="1.5070688128471375">National Intergroup Inc.</entity>
+    <entity label="23.5" degree="1.3904710412025452">LTV Steel Co.</entity>
+    <entity label="23.7" degree="0.8429020047187805">BethForge</entity>
+    <entity label="23.9" degree="0.8035096526145935">Usinor-Sacilor</entity>
+    <entity label="23.3" degree="0.7934806942939758">National Steel Manufacturers ' Association</entity>
+    <entity label="23.11" degree="0.7436361908912659">Marathon Oil Co.</entity>
+    <entity label="23.6" degree="0.7088521718978882">Kobe Steel Ltd .</entity>
+    <entity label="23.8" degree="0.6621487736701965">RMI Titanium Co.</entity>
+  </cluster>
+  <cluster>
+    <entity label="24.17" degree="4.35258948802948">Coca-Cola Enterprises Inc.</entity>
+    <entity label="24.8" degree="3.151462197303772">American Telephone &amp; Telegraph Co .</entity>
+    <entity label="24.3" degree="2.95404189825058">Bond Market Advisor</entity>
+    <entity label="24.12" degree="2.738411545753479">PepsiCo Inc.</entity>
+    <entity label="24.13" degree="2.389673352241516">MCI Communications Corp .</entity>
+    <entity label="24.4" degree="2.2056230306625366">Coke</entity>
+    <entity label="24.5" degree="1.8756924867630005">McDonald 's Corp.</entity>
+    <entity label="24.6" degree="1.720901906490326">Bell Resources Ltd.</entity>
+    <entity label="24.1" degree="1.5766326785087585">Fraser &amp; Neave Ltd.</entity>
+    <entity label="24.10" degree="1.57529878616333">S.A. Brewing Holdings Ltd .</entity>
+    <entity label="24.16" degree="1.3857659101486206">Lion Nathan Ltd.</entity>
+    <entity label="24.15" degree="1.1312434077262878">FORMER APPLE COMPUTER Inc.</entity>
+    <entity label="24.18" degree="0.7934806942939758">Cadbury Schweppes Australia Ltd.</entity>
+    <entity label="24.14" degree="0.7757132053375244">Mentor Graphics ,</entity>
+    <entity label="24.2" degree="0.7567754983901978">British Satellite Broadcasting Ltd.</entity>
+    <entity label="24.7" degree="0.7523611187934875">Mitsui , C. Itoh &amp; Co.</entity>
+    <entity label="24.11" degree="0.7210268974304199">Goodyear</entity>
+    <entity label="24.19" degree="0.6958206295967102">Bell Laboratories</entity>
+    <entity label="24.9" degree="0.615928053855896">Holiday Corp.</entity>
+  </cluster>
+  <cluster>
+    <entity label="25.18" degree="3.778709053993225">Nomura Securities Co. Ltd.</entity>
+    <entity label="25.6" degree="3.3770992755889893">Credit Suisse First Boston Ltd .</entity>
+    <entity label="25.15" degree="2.685956656932831">Fannie Mae</entity>
+    <entity label="25.9" degree="2.5808244347572327">Nikko Securities Co. Ltd.</entity>
+    <entity label="25.8" degree="2.2365265488624573">FEDERAL NATIONAL MORTGAGE ASSOCIATION</entity>
+    <entity label="25.7" degree="1.8695281147956848">Moody 's</entity>
+    <entity label="25.13" degree="1.5629183053970337">FEDERAL HOME LOAN MORTGAGE CORP .</entity>
+    <entity label="25.12" degree="1.545519769191742">Freddie Mac</entity>
+    <entity label="25.3" degree="1.364751398563385">Greenwich Capital Markets Inc.</entity>
+    <entity label="25.1" degree="1.26936674118042">IMA Holdings Corp .</entity>
+    <entity label="25.10" degree="1.2502174973487854">Remics</entity>
+    <entity label="25.20" degree="0.8852174878120422">Industrial Bank of Japan</entity>
+    <entity label="25.11" degree="0.8518288731575012">S&amp;P</entity>
+    <entity label="25.17" degree="0.7299334406852722">American Medical International Inc.</entity>
+    <entity label="25.19" degree="0.6370601058006287">Ohio Mattress Co .</entity>
+    <entity label="25.2" degree="0.6118834018707275">CS First Boston Group</entity>
+    <entity label="25.4" degree="0.5153645277023315">Houston Lighting</entity>
+    <entity label="25.5" degree="0.5062711834907532">Financiere Credit Suisse</entity>
+  </cluster>
+  <cluster>
+    <entity label="26.2" degree="1.540227234363556">Federal Express Corp.</entity>
+    <entity label="26.3" degree="0.7934806942939758">Natick</entity>
+    <entity label="26.1" degree="0.7467465400695801">Flying Tiger Line Inc.</entity>
+  </cluster>
+  <cluster>
+    <entity label="27.3" degree="1.6201198101043701">Atlantic Richfield Co.</entity>
+    <entity label="27.2" degree="0.8266391158103943">Lyondell Petrochemical Co.</entity>
+    <entity label="27.1" degree="0.7934806942939758">Phillips Petroleum Co.</entity>
+  </cluster>
+  <cluster>
+    <entity label="28.1" degree="2.666853964328766">Sun Life</entity>
+    <entity label="28.2" degree="1.7799049615859985">Union des Assurances de Paris</entity>
+    <entity label="28.3" degree="0.9201074242591858">Pearl Group</entity>
+  </cluster>
+  <cluster>
+    <entity label="29.1" degree="4.198213815689087">Philip Morris U.S.A.</entity>
+    <entity label="29.12" degree="3.159010350704193">Adolph Coors Co.</entity>
+    <entity label="29.10" degree="2.302306115627289">Anheuser-Busch Cos.</entity>
+    <entity label="29.8" degree="1.955957293510437">Miller Brewing Co.</entity>
+    <entity label="29.7" degree="1.67010098695755">Stroh Brewery Co.</entity>
+    <entity label="29.9" degree="1.5322332978248596">Benson &amp; Hedges</entity>
+    <entity label="29.4" degree="1.4850085377693176">Kraft Inc.</entity>
+    <entity label="29.11" degree="1.45587819814682">Wells Rich Greene Inc.</entity>
+    <entity label="29.5" degree="0.8556057810783386">Coors Brewing Co.</entity>
+    <entity label="29.2" degree="0.8476536273956299">Meredith Relocation Corp.</entity>
+    <entity label="29.6" degree="0.692696213722229">Kraft General Foods '</entity>
+    <entity label="29.3" degree="0.6373549103736877">Sara Lee Corp.</entity>
+  </cluster>
+  <cluster>
+    <entity label="30.4" degree="1.4047036170959473">Blackstone Group</entity>
+    <entity label="30.1" degree="1.1804168224334717">Drexel Burnham Lambert Group Inc.</entity>
+    <entity label="30.2" degree="0.8144952058792114">Donaldson Lufkin</entity>
+    <entity label="30.3" degree="0.5902084112167358">Ivan F. Boesky &amp; Co . L.P.</entity>
+  </cluster>
+  <cluster>
+    <entity label="31.18" degree="6.122077465057373">Eli Lilly &amp; Co .</entity>
+    <entity label="31.15" degree="3.8648276329040527">Boeing Helicopters</entity>
+    <entity label="31.26" degree="3.054939091205597">Procter &amp; Gamble India Ltd.</entity>
+    <entity label="31.13" degree="2.9275362491607666">P&amp;G 's</entity>
+    <entity label="31.8" degree="2.744710147380829">Pfizer Inc.</entity>
+    <entity label="31.12" degree="2.6961576342582703">Schering-Plough Corp.</entity>
+    <entity label="31.1" degree="2.3081458806991577">PWA Corp.</entity>
+    <entity label="31.14" degree="2.251329004764557">Airbus</entity>
+    <entity label="31.28" degree="2.0262413024902344">Merck &amp; Co. ,</entity>
+    <entity label="31.6" degree="1.9062959551811218">Cathay 's</entity>
+    <entity label="31.3" degree="1.7405146956443787">E.R. Squibb &amp; Sons Inc.</entity>
+    <entity label="31.25" degree="1.4736855030059814">Warner-Lambert Co .</entity>
+    <entity label="31.21" degree="1.4425671696662903">Upjohn Co.</entity>
+    <entity label="31.24" degree="1.4364404678344727">Noxell Corp.</entity>
+    <entity label="31.11" degree="1.3836581110954285">Anglo-Dutch Unilever Group</entity>
+    <entity label="31.16" degree="1.3005495071411133">Woolworth Corp.</entity>
+    <entity label="31.23" degree="1.2303861379623413">Colgate-Palmolive Co.</entity>
+    <entity label="31.22" degree="1.2062835693359375">Rockwell International Corp.</entity>
+    <entity label="31.20" degree="0.8814066648483276">Wardair</entity>
+    <entity label="31.2" degree="0.8266391158103943">Maybelline</entity>
+    <entity label="31.9" degree="0.7717301249504089">America West Airlines</entity>
+    <entity label="31.7" degree="0.7485719919204712">Kadane Oil Co.</entity>
+    <entity label="31.10" degree="0.7405146956443787">SciMed</entity>
+    <entity label="31.27" degree="0.6917759776115417">Defense and Space Group</entity>
+    <entity label="31.19" degree="0.6668539643287659">Maryland Club Foods</entity>
+    <entity label="31.4" degree="0.5807295441627502">Bristol-Myers Squibb Co .</entity>
+  </cluster>
+  <cluster>
+    <entity label="32.2" degree="3.4739394187927246">Banque Paribas</entity>
+    <entity label="32.6" degree="2.1692909598350525">Navigation Mixte</entity>
+    <entity label="32.3" degree="1.6520233750343323">Societe Commerciale</entity>
+    <entity label="32.1" degree="1.485094666481018">Allianz Versicherungs AG</entity>
+    <entity label="32.5" degree="1.4094899892807007">Cie . Financiere de Paribas</entity>
+    <entity label="32.8" degree="0.8814066648483276">Cie. de Navigation Mixte</entity>
+    <entity label="32.7" degree="0.6079759001731873">American General Finance Corp.</entity>
+  </cluster>
+  <cluster>
+    <entity label="33.10" degree="4.634850203990936">Ford Motor Credit Corp .</entity>
+    <entity label="33.13" degree="3.556795060634613">GM-Jaguar</entity>
+    <entity label="33.11" degree="3.26794570684433">General Motors Acceptance Corp .</entity>
+    <entity label="33.3" degree="2.9459937810897827">WPP Group PLC .</entity>
+    <entity label="33.17" degree="2.124306857585907">First Atlanta</entity>
+    <entity label="33.19" degree="1.8175122141838074">American Express-Buick</entity>
+    <entity label="33.7" degree="1.6353440880775452">Giovanni Agnelli &amp; Co .</entity>
+    <entity label="33.29" degree="1.5297232270240784">Jaguar PLC</entity>
+    <entity label="33.9" degree="1.512801170349121">Istituto Finanziario Industriale</entity>
+    <entity label="33.28" degree="1.4312676191329956">Merkurs</entity>
+    <entity label="33.18" degree="1.401456594467163">Mercury</entity>
+    <entity label="33.5" degree="1.294131100177765">Buick</entity>
+    <entity label="33.6" degree="1.2884277701377869">Saab-Scania AB</entity>
+    <entity label="33.16" degree="1.267322838306427">Mazda</entity>
+    <entity label="33.4" degree="1.2593531012535095">Ogilvy Group</entity>
+    <entity label="33.26" degree="1.1029301285743713">GM Hughes Electronics Corp .</entity>
+    <entity label="33.21" degree="1.0477533340454102">Electronic Data Systems Corp.</entity>
+    <entity label="33.24" degree="0.852912187576294">Ogilvy &amp; Mather Worldwide</entity>
+    <entity label="33.22" degree="0.8429020047187805">Edsel</entity>
+    <entity label="33.27" degree="0.753334641456604">Scali , McCabe , Sloves</entity>
+    <entity label="33.15" degree="0.6878684759140015">Capcom Futures Inc.</entity>
+    <entity label="33.23" degree="0.6477224230766296">J. Walter Thompson Co .</entity>
+    <entity label="33.20" degree="0.6179974675178528">Hughes Aircraft Co.</entity>
+    <entity label="33.12" degree="0.5862680673599243">Pontiac Fiero</entity>
+    <entity label="33.25" degree="0.5386844277381897">Chevrolets</entity>
+    <entity label="33.2" degree="0.5344735980033875">Mazda Motor Corp.</entity>
+    <entity label="33.14" degree="0.5310912728309631">Cadillac</entity>
+    <entity label="33.8" degree="0.5094954371452332">Ford Asia-Pacific</entity>
+    <entity label="33.1" degree="0.5056367516517639">Shearson</entity>
+  </cluster>
+  <cluster>
+    <entity label="34.1" degree="1.7978391647338867">Equitable Gas Co.</entity>
+    <entity label="34.2" degree="0.9034513831138611">Younkers</entity>
+    <entity label="34.3" degree="0.8943877816200256">Ameritas</entity>
+  </cluster>
+  <cluster>
+    <entity label="35.1" degree="4.200097858905792">Cara Operations Ltd .</entity>
+    <entity label="35.2" degree="3.5937296748161316">Kingsbridge Capital Group</entity>
+    <entity label="35.5" degree="3.5296830534934998">DD Acquisition Corp.</entity>
+    <entity label="35.3" degree="3.4910032153129578">Unicorp Canada Corp.</entity>
+    <entity label="35.4" degree="3.3165900111198425">Dunkin ' Donuts Inc.</entity>
+    <entity label="35.6" degree="0.7887755036354065">Universal Studios</entity>
+  </cluster>
+  <cluster>
+    <entity label="36.4" degree="2.549491822719574">Christie 's International PLC</entity>
+    <entity label="36.1" degree="1.8040838241577148">Aska International Gallery</entity>
+    <entity label="36.2" degree="1.7154033184051514">Aichi Financial</entity>
+    <entity label="36.3" degree="0.8430680632591248">Sotheby 's Holdings Inc.</entity>
+  </cluster>
+  <cluster>
+    <entity label="37.2" degree="2.5402859449386597">American International Group Inc.</entity>
+    <entity label="37.1" degree="2.4045422673225403">Cigna Corp.</entity>
+    <entity label="37.4" degree="1.7095301747322083">General Re Corp.</entity>
+    <entity label="37.3" degree="1.6401033401489258">Aetna Life &amp; Casualty Insurance Co.</entity>
+  </cluster>
+  <cluster>
+    <entity label="38.7" degree="6.678930640220642">General Electric Capital Corp.</entity>
+    <entity label="38.2" degree="4.574936091899872">Capital Cities/ABC Inc .</entity>
+    <entity label="38.10" degree="3.4472938179969788">Commercial Federal Savings</entity>
+    <entity label="38.11" degree="3.3976730704307556">MasterCard</entity>
+    <entity label="38.15" degree="3.385514199733734">Monogram Bank USA</entity>
+    <entity label="38.9" degree="3.3233224749565125">ABC Sports</entity>
+    <entity label="38.4" degree="3.2210388779640198">Visa International</entity>
+    <entity label="38.12" degree="3.1311803460121155">NBC-owned</entity>
+    <entity label="38.3" degree="3.0581318736076355">CBS Records</entity>
+    <entity label="38.6" degree="2.783841907978058">National Broadcasting Co.</entity>
+    <entity label="38.14" degree="1.503910779953003">Communications Satellite Corp.</entity>
+    <entity label="38.13" degree="1.4398550391197205">ABC-TV ,</entity>
+    <entity label="38.16" degree="1.3668663501739502">ESPN 's</entity>
+    <entity label="38.1" degree="1.164128839969635">A.C. Nielsen Co .</entity>
+    <entity label="38.8" degree="0.9201074242591858">Comsat Video Enterprises Inc.</entity>
+    <entity label="38.5" degree="0.5224597454071045">NBC News</entity>
+  </cluster>
+  <cluster>
+    <entity label="39.2" degree="1.6717597842216492">Mirage</entity>
+    <entity label="39.3" degree="0.8572645783424377">Golden Nugget Inc.</entity>
+    <entity label="39.1" degree="0.8144952058792114">Caesars World Inc.</entity>
+  </cluster>
+  <cluster>
+    <entity label="40.2" degree="2.3785625100135803">Daimler Benz AG ,</entity>
+    <entity label="40.1" degree="1.8054007291793823">Volkswagen</entity>
+    <entity label="40.4" degree="0.7677610516548157">Messerschmitt-Boelkow-Blohm G.m.b . H.</entity>
+  </cluster>
+  <cluster>
+    <entity label="41.2" degree="1.8505393862724304">DIG Acquisition Corp.</entity>
+    <entity label="41.3" degree="0.9304319620132446">Di Giorgio Corp.</entity>
+    <entity label="41.1" degree="0.9201074242591858">Rose Partners Limited Partnership</entity>
+  </cluster>
+  <cluster>
+    <entity label="42.4" degree="2.4378713965415955">Sea Containers Ltd.</entity>
+    <entity label="42.2" degree="1.74674654006958">Stena Holding AG</entity>
+    <entity label="42.1" degree="0.9443783164024353">Temple Holdings Ltd.</entity>
+  </cluster>
+  <cluster>
+    <entity label="43.4" degree="2.195468842983246">Qintex Australia Ltd.</entity>
+    <entity label="43.3" degree="1.8034612536430359">McGill Manufacturing Co.</entity>
+    <entity label="43.1" degree="1.3118444085121155">Qintex Entertainment Inc.</entity>
+    <entity label="43.2" degree="0.7356564402580261">MGM/UA Communications Co .</entity>
+    <entity label="43.5" degree="0.6201198101043701">Broad Inc .</entity>
+  </cluster>
+  <cluster>
+    <entity label="44.2" degree="1.7978391647338867">BanPonce Corp .</entity>
+    <entity label="44.3" degree="0.9034513831138611">Banco Popular</entity>
+    <entity label="44.1" degree="0.8943877816200256">Banco Popular de Puerto Rico</entity>
+  </cluster>
+  <cluster>
+    <entity label="45.14" degree="6.209842622280121">Hewlett-Packard Co .</entity>
+    <entity label="45.12" degree="5.535893082618713">International Lease</entity>
+    <entity label="45.10" degree="4.876417696475983">LSI Logic Corp.</entity>
+    <entity label="45.13" degree="4.368742644786835">Advanced Micro Devices Inc.</entity>
+    <entity label="45.15" degree="4.105890214443207">U.S. Memories Inc.</entity>
+    <entity label="45.16" degree="3.9546753764152527">International Business Machines Corp .</entity>
+    <entity label="45.3" degree="3.561097264289856">National Semiconductor Corp .</entity>
+    <entity label="45.18" degree="3.0325247645378113">Digital Equipment Corp .</entity>
+    <entity label="45.4" degree="2.3308778405189514">Tandy Corp.</entity>
+    <entity label="45.11" degree="1.2386027574539185">Toronto Sun</entity>
+    <entity label="45.20" degree="1.1180273294448853">Sun Microsystems Inc.</entity>
+    <entity label="45.1" degree="0.8227032423019409">GRiD Systems Corp.</entity>
+    <entity label="45.8" degree="0.7879192233085632">Radio Shack</entity>
+    <entity label="45.5" degree="0.7790823578834534">Octel Communications Corp.</entity>
+    <entity label="45.7" degree="0.7135881185531616">Alliant</entity>
+    <entity label="45.2" degree="0.6804296970367432">Apollo</entity>
+    <entity label="45.6" degree="0.5822194218635559">Paxus Corp.</entity>
+    <entity label="45.17" degree="0.5550099015235901">XL/Datacomp</entity>
+    <entity label="45.9" degree="0.5082757472991943">Convex Computer Corp.</entity>
+  </cluster>
+  <cluster>
+    <entity label="46.1" degree="2.4803181886672974">Waertsilae Marine Industries Oy</entity>
+    <entity label="46.3" degree="0.84662264585495">Carnival</entity>
+    <entity label="46.4" degree="0.8402148485183716">Postipankki</entity>
+    <entity label="46.2" degree="0.7934806942939758">Oy Waertsilae</entity>
+  </cluster>
+  <cluster>
+    <entity label="47.2" degree="3.1700894832611084">Hyundai Motor America</entity>
+    <entity label="47.3" degree="2.6064343452453613">Kia Motors Corp.</entity>
+    <entity label="47.1" degree="2.5537341237068176">Daewoo Motor Co.</entity>
+    <entity label="47.5" degree="2.4304232597351074">SsangYong Motor Co.</entity>
+    <entity label="47.4" degree="0.6958206295967102">J.P. Morgan Securities Inc.</entity>
+  </cluster>
+  <cluster>
+    <entity label="48.1" degree="2.625200092792511">Standard &amp; Poor 's Corp.</entity>
+    <entity label="48.7" degree="1.6041964888572693">CreditWatch</entity>
+    <entity label="48.5" degree="1.524303913116455">Crossland</entity>
+    <entity label="48.9" degree="1.3958330154418945">Chicago Board Options Exchange</entity>
+    <entity label="48.2" degree="1.3191874027252197">chicago Board of Trade</entity>
+    <entity label="48.6" degree="1.2683837413787842">Moody 's Investors Service Inc .</entity>
+    <entity label="48.4" degree="1.2602975368499756">Dun &amp; Bradstreet Corp.</entity>
+    <entity label="48.8" degree="1.2421537637710571">Chicago Mercantile Exchange</entity>
+    <entity label="48.3" degree="0.7567754983901978">Donnelley Marketing</entity>
+    <entity label="48.10" degree="0.7467465400695801">Petco Options</entity>
+  </cluster>
+  <cluster>
+    <entity label="49.2" degree="1.7855034470558167">Royal Trustco Ltd.</entity>
+    <entity label="49.1" degree="0.929897665977478">Realist Inc.</entity>
+    <entity label="49.3" degree="0.8556057810783386">Ammann</entity>
+  </cluster>
+  <cluster>
+    <entity label="50.2" degree="1.7270109057426453">Pitney Bowes Inc .</entity>
+    <entity label="50.3" degree="0.9382354021072388">Wheeler Group Inc.</entity>
+    <entity label="50.1" degree="0.7887755036354065">Dictaphone Corp .</entity>
+  </cluster>
+  <cluster>
+    <entity label="51.5" degree="3.2324060797691345">Deloitte &amp; Touche</entity>
+    <entity label="51.3" degree="1.6725961565971375">Coopers</entity>
+    <entity label="51.2" degree="1.5869613885879517">Coopers &amp; Lybrand</entity>
+    <entity label="51.1" degree="0.8266391158103943">Touche Ross &amp; Co.</entity>
+  </cluster>
+  <cluster>
+    <entity label="52.7" degree="4.133057475090027">Honda Motor Co.</entity>
+    <entity label="52.4" degree="2.9811980724334717">Toyota Motor Corp .</entity>
+    <entity label="52.5" degree="2.9467546939849854">Nissan Motor Corp.</entity>
+    <entity label="52.3" degree="2.749005138874054">Infiniti</entity>
+    <entity label="52.1" degree="2.7411608695983887">Lexus</entity>
+    <entity label="52.6" degree="0.7757132053375244">Accords</entity>
+    <entity label="52.2" degree="0.7289790511131287">Acura</entity>
+  </cluster>
+  <cluster>
+    <entity label="53.4" degree="2.325874388217926">Integrated Resources Asset Management Corp .</entity>
+    <entity label="53.1" degree="1.7000123858451843">Resorts International Inc.</entity>
+    <entity label="53.5" degree="0.9532658457756042">Southmark Corp.</entity>
+    <entity label="53.3" degree="0.8323813080787659">Royal Alliance</entity>
+    <entity label="53.2" degree="0.7467465400695801">Hallwood Group Inc.</entity>
+  </cluster>
+  <cluster>
+    <entity label="54.5" degree="4.312370598316193">Weyerhaeuser Co.</entity>
+    <entity label="54.4" degree="3.6285672783851624">Louisiana-Pacific Corp.</entity>
+    <entity label="54.6" degree="3.2464572191238403">Champion International Corp .</entity>
+    <entity label="54.7" degree="2.8781871795654297">International Paper Co.</entity>
+    <entity label="54.11" degree="2.6582248210906982">Georgia-Pacific Corp.</entity>
+    <entity label="54.8" degree="2.491116523742676">Boise Cascade Corp.</entity>
+    <entity label="54.1" degree="2.3030418157577515">Canadian Pacific Ltd.</entity>
+    <entity label="54.2" degree="2.0399789214134216">Nekoosa</entity>
+    <entity label="54.9" degree="1.978118121623993">Great Northern Nekoosa Corp .</entity>
+    <entity label="54.10" degree="1.5502562522888184">MacMillan Bloedel Ltd .</entity>
+    <entity label="54.3" degree="0.9261465072631836">Soo Line Corp.</entity>
+  </cluster>
+  <cluster>
+    <entity label="55.2" degree="1.7183738946914673">Penn Central Corp.</entity>
+    <entity label="55.3" degree="0.8627681136131287">Unilab Corp.</entity>
+    <entity label="55.1" degree="0.8556057810783386">Carol Cable Co.</entity>
+  </cluster>
+  <cluster>
+    <entity label="56.2" degree="1.5233781337738037">Herald Examiner</entity>
+    <entity label="56.1" degree="0.7887755036354065">Hearst Newspapers</entity>
+    <entity label="56.3" degree="0.7346026301383972">Washington Times</entity>
+  </cluster>
+  <cluster>
+    <entity label="57.12" degree="4.102079629898071">Saatchi</entity>
+    <entity label="57.10" degree="2.4097335934638977">Backer Spielvogel Bates Worldwide Inc.</entity>
+    <entity label="57.2" degree="2.1582557559013367">Interpublic Group of Cos .</entity>
+    <entity label="57.9" degree="1.6437245607376099">Cleveland Consulting Associates</entity>
+    <entity label="57.4" degree="1.4271762371063232">Rowland</entity>
+    <entity label="57.6" degree="1.4247996807098389">Southeastern Asset Management</entity>
+    <entity label="57.5" degree="1.3641164302825928">Saatchi &amp; Saatchi Wegener</entity>
+    <entity label="57.3" degree="0.9201074242591858">Computer Sciences Corp.</entity>
+    <entity label="57.8" degree="0.8088716268539429">Torstar Corp.</entity>
+    <entity label="57.7" degree="0.7603222727775574">IMS International Inc.</entity>
+    <entity label="57.1" degree="0.5538029670715332">Prudential-Bache Securities Inc .</entity>
+  </cluster>
+  <cluster>
+    <entity label="58.4" degree="3.14008104801178">Eurocom .</entity>
+    <entity label="58.2" degree="3.1292112469673157">WCRS Group</entity>
+    <entity label="58.5" degree="1.6148145198822021">Carat Holding S.A.</entity>
+    <entity label="58.3" degree="1.4949249029159546">Belier Group</entity>
+    <entity label="58.1" degree="1.3915345072746277">Della Femina , McNamee WCRS/Boston</entity>
+  </cluster>
+  <cluster>
+    <entity label="59.2" degree="1.456787884235382">Du Pont Co .</entity>
+    <entity label="59.3" degree="0.8266391158103943">Conoco Inc.</entity>
+    <entity label="59.1" degree="0.6301487684249878">Seagram Co.</entity>
+  </cluster>
+  <cluster>
+    <entity label="60.5" degree="2.274829864501953">Lockheed Corp.</entity>
+    <entity label="60.3" degree="1.6152953505516052">NL Industries Inc.</entity>
+    <entity label="60.6" degree="1.3579694032669067">Valhi Inc.</entity>
+    <entity label="60.1" degree="0.9451944231987">Georgia Gulf Corp.</entity>
+    <entity label="60.2" degree="0.7934806942939758">Lockheed Aeronautical Systems Co.</entity>
+  </cluster>
+  <cluster>
+    <entity label="61.3" degree="1.328056275844574">Wells Fargo &amp; Co .</entity>
+    <entity label="61.1" degree="0.7171622514724731">BankAmerica Corp .</entity>
+    <entity label="61.2" degree="0.6108940243721008">Security Pacific Corp .</entity>
+  </cluster>
+  <cluster>
+    <entity label="62.2" degree="1.7286378741264343">HealthVest</entity>
+    <entity label="62.3" degree="0.9529246687889099">Healthcare International Inc.</entity>
+    <entity label="62.1" degree="0.7757132053375244">Bank of Tokyo Trust Co.</entity>
+  </cluster>
+  <cluster>
+    <entity label="63.1" degree="2.3295974135398865">Pacific Telesis Group</entity>
+    <entity label="63.4" degree="1.502363681793213">U S West Inc.</entity>
+    <entity label="63.2" degree="1.4813491702079773">Nynex Corp .</entity>
+    <entity label="63.3" degree="0.8814066648483276">Pacific Bell Telephone Co.</entity>
+  </cluster>
+  <cluster>
+    <entity label="64.3" degree="1.7628133296966553">Vitro-Anchor</entity>
+    <entity label="64.1" degree="0.8814066648483276">Anchor Glass Container Corp</entity>
+  </cluster>
+  <cluster>
+    <entity label="65.2" degree="1.8015140891075134">Fossett Corp.</entity>
+    <entity label="65.3" degree="1.7934806942939758">First Options of Chicago</entity>
+    <entity label="65.1" degree="1.7547799348831177">Continental Bank Corp.</entity>
+  </cluster>
+  <cluster>
+    <entity label="66.22" degree="3.372280478477478">Salomon Brothers International Ltd.</entity>
+    <entity label="66.8" degree="2.9625244140625">Ferranti</entity>
+    <entity label="66.3" degree="2.8784496188163757">Morgan Stanley Group Inc.</entity>
+    <entity label="66.23" degree="2.6818186044692993">Merrill Lynch Capital Markets Inc.</entity>
+    <entity label="66.18" degree="2.671005368232727">Matra S.A.</entity>
+    <entity label="66.4" degree="2.605265498161316">Grace Energy Corp.</entity>
+    <entity label="66.16" degree="2.2973510026931763">Kidder , Peabody &amp; Co .</entity>
+    <entity label="66.20" degree="2.217410922050476">Bear , Stearns &amp; Co. Inc .</entity>
+    <entity label="66.19" degree="2.169233798980713">Goldman Sachs International Corp .</entity>
+    <entity label="66.17" degree="2.0258867740631104">Kemper Corp.</entity>
+    <entity label="66.29" degree="1.9722774624824524">British Aerospace-Thomson</entity>
+    <entity label="66.5" degree="1.9594352841377258">Oppenheimer Capital</entity>
+    <entity label="66.21" degree="1.6200883388519287">Nesbitt Thomson Deacon Inc.</entity>
+    <entity label="66.12" degree="1.4688228368759155">Paul , Weiss , Rifkind Wharton &amp; Garrison</entity>
+    <entity label="66.26" degree="1.3853475451469421">American Cyanamid Co.</entity>
+    <entity label="66.15" degree="1.2299814224243164">PaineWebber Group Inc .</entity>
+    <entity label="66.1" degree="0.8975521326065063">Lazard Freres &amp; Co .</entity>
+    <entity label="66.25" degree="0.87337327003479">Applied Solar Energy Corp.</entity>
+    <entity label="66.13" degree="0.8323813080787659">Kemper Financial Services Inc .</entity>
+    <entity label="66.9" degree="0.7934806942939758">International Signal &amp; Control Group</entity>
+    <entity label="66.28" degree="0.7677610516548157">Seita</entity>
+    <entity label="66.11" degree="0.7215914130210876">Kaiser Permanente</entity>
+    <entity label="66.14" degree="0.6461241245269775">Continental Cablevision Inc .</entity>
+    <entity label="66.6" degree="0.6180048584938049">B &amp; H Crude Carriers Ltd.</entity>
+    <entity label="66.7" degree="0.5918668508529663">Immune Response Corp.</entity>
+    <entity label="66.24" degree="0.5893880128860474">Southland Corp.</entity>
+    <entity label="66.2" degree="0.5865381360054016">Beatrice Co .</entity>
+    <entity label="66.10" degree="0.5451326966285706">Location Management Services Inc.</entity>
+  </cluster>
+  <cluster>
+    <entity label="67.5" degree="4.113370597362518">Control Data Corp .</entity>
+    <entity label="67.7" degree="3.477086842060089">MIPs ,</entity>
+    <entity label="67.10" degree="1.7961678504943848">Groupe Bull</entity>
+    <entity label="67.1" degree="1.7567754983901978">Nixdorf Computer AG</entity>
+    <entity label="67.6" degree="1.6768829822540283">Imprimis</entity>
+    <entity label="67.8" degree="1.6301487684249878">Seagate Technology Inc .</entity>
+    <entity label="67.3" degree="1.3573126792907715">Bell Atlantic International Inc.</entity>
+    <entity label="67.4" degree="0.7934806942939758">Southern New England Telecommunications</entity>
+    <entity label="67.2" degree="0.7236171364784241">ETA Systems Inc.</entity>
+    <entity label="67.9" degree="0.6768829226493835">Mips Computer Systems Inc.</entity>
+  </cluster>
+  <cluster>
+    <entity label="68.2" degree="1.7429280281066895">StatesWest Airlines</entity>
+    <entity label="68.3" degree="0.950652003288269">Mediobanca S.p . A.</entity>
+    <entity label="68.1" degree="0.7922760248184204">Mesa Airlines</entity>
+  </cluster>
+  <cluster>
+    <entity label="69.3" degree="1.7855034470558167">Black &amp; Decker Corp.</entity>
+    <entity label="69.2" degree="0.929897665977478">Emhart Corp.</entity>
+    <entity label="69.1" degree="0.8556057810783386">Bostik</entity>
+  </cluster>
+  <cluster>
+    <entity label="70.3" degree="1.7934806942939758">Lawrence Insurance Group Inc.</entity>
+    <entity label="70.2" degree="0.9201074242591858">United Republic Reinsurance Co.</entity>
+    <entity label="70.1" degree="0.87337327003479">Lawrence Group Inc</entity>
+  </cluster>
+  <cluster>
+    <entity label="71.3" degree="1.690966010093689">Canadian Express Ltd.</entity>
+    <entity label="71.1" degree="0.8764708042144775">Enfield Corp.</entity>
+    <entity label="71.2" degree="0.8144952058792114">Hees</entity>
+  </cluster>
+  <cluster>
+    <entity label="72.5" degree="3.945849299430847">Alex . Brown &amp; Sons Inc .</entity>
+    <entity label="72.2" degree="2.6878684759140015">Wessels , Arnold &amp; Henderson</entity>
+    <entity label="72.6" degree="2.4346150159835815">Hambrecht &amp; Quist Inc.</entity>
+    <entity label="72.1" degree="1.8144952058792114">Nuveen California Performance Plus Municipal Fund Inc.</entity>
+  </cluster>
+  <cluster>
+    <entity label="73.2" degree="1.5797588229179382">Lincoln-Mercury</entity>
+    <entity label="73.1" degree="0.8587319254875183">American Continental Corp.</entity>
+    <entity label="73.3" degree="0.7210268974304199">Resolution Trust Corp.</entity>
+  </cluster>
+  <cluster>
+    <entity label="74.12" degree="4.536982417106628">Compaq Computer Corp.</entity>
+    <entity label="74.6" degree="2.6368375420570374">Toshiba Corp .</entity>
+    <entity label="74.11" degree="2.55014431476593">NEC Semiconductors U.K. Ltd.</entity>
+    <entity label="74.9" degree="2.5052751302719116">Hitachi Zosen Corp.</entity>
+    <entity label="74.3" degree="1.514915108680725">Zenith Electronics Corp.</entity>
+    <entity label="74.7" degree="1.359829306602478">Fujitsu Ltd .</entity>
+    <entity label="74.8" degree="1.1739227771759033">Dell Computer Corp.</entity>
+    <entity label="74.5" degree="0.7855682373046875">Motorola Inc.</entity>
+    <entity label="74.1" degree="0.7135881185531616">Dynabook Inc.</entity>
+    <entity label="74.4" degree="0.6668539643287659">Conner Peripherals Inc.</entity>
+    <entity label="74.2" degree="0.6336955428123474">Texas Instruments Japan Ltd.</entity>
+    <entity label="74.10" degree="0.5538029670715332">Wang Laboratories Inc.</entity>
+  </cluster>
+  <cluster>
+    <entity label="75.4" degree="3.004679262638092">Guinness PLC</entity>
+    <entity label="75.3" degree="2.2416714429855347">Burger King</entity>
+    <entity label="75.5" degree="1.437861979007721">Whitbread &amp; Co.</entity>
+    <entity label="75.8" degree="1.3248109817504883">Grand Metropolitan PLC</entity>
+    <entity label="75.1" degree="0.8556057810783386">Schenley Industries Inc</entity>
+    <entity label="75.2" degree="0.8088716268539429">Morgan Grenfell Group PLC</entity>
+    <entity label="75.6" degree="0.7934806942939758">Bank of Korea</entity>
+    <entity label="75.9" degree="0.7677610516548157">Scottish &amp; Newcastle</entity>
+  </cluster>
+  <cluster>
+    <entity label="76.7" degree="4.004431843757629">Working Woman</entity>
+    <entity label="76.2" degree="3.874845027923584">Detroit News</entity>
+    <entity label="76.5" degree="3.346522808074951">Working Mother</entity>
+    <entity label="76.3" degree="3.2483584880828857">Lang Communications</entity>
+    <entity label="76.4" degree="2.388869524002075">Sassy</entity>
+    <entity label="76.10" degree="2.385227859020233">Detroit Free Press</entity>
+    <entity label="76.12" degree="2.351400315761566">The New York Times Co.</entity>
+    <entity label="76.13" degree="2.2733229398727417">McCall 's</entity>
+    <entity label="76.15" degree="2.127723515033722">Consumer News and Business Channel ,</entity>
+    <entity label="76.1" degree="2.0691067576408386">U.S. News &amp; World Report</entity>
+    <entity label="76.14" degree="1.9284916520118713">Washington Post Co.</entity>
+    <entity label="76.9" degree="1.8053961992263794">Michaels Stores Inc.</entity>
+    <entity label="76.17" degree="1.6355107426643372">Success</entity>
+    <entity label="76.6" degree="1.555618166923523">Gannett Co.</entity>
+    <entity label="76.16" degree="0.8627681136131287">Knight-Ridder Inc.</entity>
+    <entity label="76.8" degree="0.8402148485183716">Magazine Group</entity>
+    <entity label="76.11" degree="0.7289790511131287">U.S. News</entity>
+  </cluster>
+  <cluster>
+    <entity label="77.2" degree="1.9532658457756042">Nishiki</entity>
+    <entity label="77.1" degree="1.9065316915512085">Peugeot S.A.</entity>
+  </cluster>
+  <cluster>
+    <entity label="78.2" degree="1.6201198101043701">Milton Roy Corp.</entity>
+    <entity label="78.1" degree="0.8266391158103943">Thermo Electron Corp.</entity>
+    <entity label="78.3" degree="0.7934806942939758">Essex Crane Inc.</entity>
+  </cluster>
+  <cluster>
+    <entity label="79.1" degree="1.7398081421852112">National Pizza Corp.</entity>
+    <entity label="79.4" degree="1.59440016746521">Pizza Hut Inc.</entity>
+    <entity label="79.2" degree="0.9720470905303955">Skipper 's Inc.</entity>
+    <entity label="79.3" degree="0.8266391158103943">Taco Bell</entity>
+  </cluster>
+  <cluster>
+    <entity label="80.4" degree="3.2858030200004578">Dow Jones International Group</entity>
+    <entity label="80.2" degree="2.077379286289215">The Asian Wall Street Journal Weekly</entity>
+    <entity label="80.5" degree="1.4591350555419922">Barron 's</entity>
+    <entity label="80.7" degree="0.7772112488746643">Telerate Systems Inc .</entity>
+    <entity label="80.1" degree="0.654710054397583">Old-House Journal Corp.</entity>
+    <entity label="80.3" degree="0.6222742795944214">Marion Laboratories Inc .</entity>
+    <entity label="80.6" degree="0.6179974675178528">Philadelphia Stock Exchange</entity>
+  </cluster>
+  <cluster>
+    <entity label="81.4" degree="3.3999423384666443">Federal Paper Board Co.</entity>
+    <entity label="81.5" degree="2.603028178215027">Union Camp Corp.</entity>
+    <entity label="81.2" degree="2.57330322265625">Mitchell Energy &amp; Development Corp.</entity>
+    <entity label="81.1" degree="2.4271762371063232">Temple Inland Inc.</entity>
+    <entity label="81.3" degree="0.8266391158103943">Stone Container</entity>
+  </cluster>
+  <cluster>
+    <entity label="82.7" degree="5.123578190803528">Time Warner Inc .</entity>
+    <entity label="82.11" degree="4.320261180400848">Sony-Columbia</entity>
+    <entity label="82.12" degree="3.3927704095840454">MCA Records</entity>
+    <entity label="82.16" degree="2.549039900302887">Paramount Communications Inc .</entity>
+    <entity label="82.6" degree="2.3115888833999634">Guber/Peters Entertainment Co.</entity>
+    <entity label="82.17" degree="2.133402109146118">Warner Communications Inc .</entity>
+    <entity label="82.19" degree="2.041618824005127">Discovision Associates</entity>
+    <entity label="82.9" degree="1.766153335571289">Sony Columbia Acquisition Corp.</entity>
+    <entity label="82.5" degree="1.6129894852638245">LJN Toys Ltd.</entity>
+    <entity label="82.18" degree="1.2718443274497986">Cineplex Odeon Corp .</entity>
+    <entity label="82.1" degree="1.2553646564483643">Columbia Pictures Entertainment Inc .</entity>
+    <entity label="82.2" degree="1.1276229619979858">Guber Peters Entertainment Co .</entity>
+    <entity label="82.14" degree="0.8764708042144775">Pioneer Electric Corp.</entity>
+    <entity label="82.13" degree="0.7391722202301025">Justin Products Inc.</entity>
+    <entity label="82.4" degree="0.7215914130210876">LANDOR ASSOCIATES</entity>
+    <entity label="82.8" degree="0.654710054397583">Toronto Stock Exchange</entity>
+    <entity label="82.3" degree="0.5514264106750488">Lorimar Telepictures Corp .</entity>
+    <entity label="82.15" degree="0.5266515016555786">Pioneer Electronic Corp.</entity>
+  </cluster>
+  <cluster>
+    <entity label="83.3" degree="1.6519396901130676">Avis Inc .</entity>
+    <entity label="83.2" degree="0.8430680632591248">Hertz Equipment</entity>
+    <entity label="83.1" degree="0.8088716268539429">Budget</entity>
+  </cluster>
+  <cluster>
+    <entity label="84.4" degree="2.0240769386291504">Sears , Roebuck &amp; Co.</entity>
+    <entity label="84.3" degree="0.7706167697906494">Aldrich , Eastman &amp; Waltch Inc.</entity>
+    <entity label="84.2" degree="0.7346026301383972">Allstate Insurance Co.</entity>
+    <entity label="84.1" degree="0.5188575387001038">Dean Witter Reynolds Inc .</entity>
+  </cluster>
+  <cluster>
+    <entity label="85.2" degree="2.4057669639587402">Aeroflot</entity>
+    <entity label="85.1" degree="1.6725961565971375">Aer Lingus</entity>
+    <entity label="85.4" degree="1.5869613885879517">GPA Group Ltd.</entity>
+    <entity label="85.3" degree="0.8266391158103943">Aer Rianta</entity>
+  </cluster>
+  <cluster>
+    <entity label="86.6" degree="2.5095770955085754">United Illuminating Co.</entity>
+    <entity label="86.2" degree="2.306082546710968">PS of New Hampshire</entity>
+    <entity label="86.4" degree="1.500536859035492">Northeast Utilities</entity>
+    <entity label="86.3" degree="1.3477253913879395">InterMedia Capital Corp.</entity>
+    <entity label="86.7" degree="0.8196420669555664">Eliot Savings Bank</entity>
+    <entity label="86.1" degree="0.797597348690033">New England Electric System</entity>
+    <entity label="86.5" degree="0.7135881185531616">Eastern Utilities Associates</entity>
+  </cluster>
+  <cluster>
+    <entity label="87.11" degree="4.06349378824234">Texas Air Corp .</entity>
+    <entity label="87.4" degree="3.567116677761078">Pennzoil/Texaco</entity>
+    <entity label="87.14" degree="2.78164142370224">USAir Group Inc.</entity>
+    <entity label="87.10" degree="2.611356735229492">Eastern Edison Co.</entity>
+    <entity label="87.13" degree="1.4635816812515259">Delta</entity>
+    <entity label="87.6" degree="1.3823250532150269">Eastern Air Lines</entity>
+    <entity label="87.7" degree="1.337049126625061">Continental Baking</entity>
+    <entity label="87.1" degree="0.7934806942939758">Getty Oil Co .</entity>
+    <entity label="87.15" degree="0.7729657292366028">Ernst &amp; Young</entity>
+    <entity label="87.8" degree="0.7467465400695801">Texaco Inc.</entity>
+    <entity label="87.2" degree="0.7289790511131287">Piedmont Airlines</entity>
+    <entity label="87.3" degree="0.6716737747192383">Tana Production Corp.</entity>
+    <entity label="87.5" degree="0.6618144512176514">Continental Airlines '</entity>
+    <entity label="87.12" degree="0.6490864753723145">USA Today</entity>
+  </cluster>
+  <cluster>
+    <entity label="88.2" degree="1.8153218626976013">SHV Holdings N.V.</entity>
+    <entity label="88.3" degree="1.7416372299194336">Burmah Oil PLC</entity>
+    <entity label="88.1" degree="1.6606460213661194">Calor Group PLC</entity>
+  </cluster>
+  <cluster>
+    <entity label="89.2" degree="1.87337327003479">Dime Savings Bank of New York</entity>
+    <entity label="89.1" degree="1.74674654006958">Federal Deposit Insurance Corp .</entity>
+  </cluster>
+  <cluster>
+    <entity label="90.4" degree="1.456787884235382">Union Carbide Corp.</entity>
+    <entity label="90.3" degree="1.28926420211792">QUANTUM CHEMICAL Corp.</entity>
+    <entity label="90.1" degree="0.8266391158103943">GAF Corp.</entity>
+    <entity label="90.2" degree="0.6591154336929321">Dow Chemical Co.</entity>
+  </cluster>
+  <cluster>
+    <entity label="91.5" degree="2.036643922328949">Turner Broadcasting Systems Inc.</entity>
+    <entity label="91.4" degree="1.9173479676246643">Drexel-underwritten</entity>
+    <entity label="91.6" degree="1.2601492404937744">Cable News Network</entity>
+    <entity label="91.3" degree="0.7289790511131287">Turner Pictures</entity>
+    <entity label="91.2" degree="0.6958206295967102">Princeton/Newport-like</entity>
+    <entity label="91.1" degree="0.6701009273529053">CoreStates Financial Corp.</entity>
+  </cluster>
+  <cluster>
+    <entity label="92.1" degree="2.9663878679275513">LIN Broadcasting Corp.</entity>
+    <entity label="92.4" degree="2.0587223172187805">BellSouth Enterprises Inc.</entity>
+    <entity label="92.5" degree="1.5944404006004333">McCaw holds</entity>
+    <entity label="92.3" degree="1.3407136797904968">McCaw Cellular Communications Inc.</entity>
+    <entity label="92.2" degree="0.5188575387001038">Metromedia Inc.</entity>
+  </cluster>
+  <cluster>
+    <entity label="93.2" degree="2.5775296092033386">Fox Broadcasting</entity>
+    <entity label="93.1" degree="1.8266391158103943">TVX</entity>
+    <entity label="93.3" degree="0.92425137758255">Paramount-MCA</entity>
+  </cluster>
+  <cluster>
+    <entity label="94.2" degree="1.9720470905303955">Elkhorn Partners L.P.</entity>
+    <entity label="94.1" degree="1.944094181060791">CACI International Inc .</entity>
+  </cluster>
+  <cluster>
+    <entity label="95.7" degree="5.43674099445343">Time magazine</entity>
+    <entity label="95.12" degree="4.9760582447052">Showtime Networks Inc.</entity>
+    <entity label="95.3" degree="4.59732311964035">United Telecommunications Inc.</entity>
+    <entity label="95.4" degree="3.692123830318451">Home Box Office</entity>
+    <entity label="95.13" degree="3.4464113116264343">Viacom Broadcasting Inc.</entity>
+    <entity label="95.10" degree="1.7502428889274597">Tandem Computers Inc.</entity>
+    <entity label="95.5" degree="1.6598663330078125">MTV ,</entity>
+    <entity label="95.9" degree="0.9532658457756042">VH-1</entity>
+    <entity label="95.8" degree="0.7346026301383972">U S Sprint</entity>
+    <entity label="95.1" degree="0.7135881185531616">The Movie Channel ,</entity>
+    <entity label="95.11" degree="0.6138879656791687">Sports Illustrated</entity>
+    <entity label="95.6" degree="0.528083324432373">Nasdaq Insurance</entity>
+  </cluster>
+  <cluster>
+    <entity label="96.3" degree="2.5733856558799744">Texas Eastern Transmission Corp.</entity>
+    <entity label="96.4" degree="1.7000123858451843">Eastman Christensen Co.</entity>
+    <entity label="96.1" degree="0.87337327003479">Trunkline Gas Co .</entity>
+  </cluster>
+  <cluster>
+    <entity label="97.3" degree="2.625810384750366">Nuovo Banco Ambrosiano S.p.A.</entity>
+    <entity label="97.2" degree="0.9007554054260254">Credit Agricole</entity>
+    <entity label="97.1" degree="0.8984158635139465">Assicurazioni Generali S.p.A</entity>
+    <entity label="97.4" degree="0.8266391158103943">Gemina S.p.A.</entity>
+  </cluster>
+  <cluster>
+    <entity label="98.4" degree="2.8836002945899963">Eagle Clothes Inc.</entity>
+    <entity label="98.1" degree="1.3893126845359802">Bankers Trust International Ltd .</entity>
+    <entity label="98.3" degree="0.8144952058792114">Sumitomo Bank .</entity>
+    <entity label="98.5" degree="0.797597348690033">Biny Clothing Inc.</entity>
+    <entity label="98.2" degree="0.7135881185531616">A. Webster Dougherty</entity>
+  </cluster>
+  <cluster>
+    <entity label="99.1" degree="1.8326231837272644">Cross &amp; Trecker Corp.</entity>
+    <entity label="99.3" degree="0.9382354021072388">Murata Machinery Ltd.</entity>
+    <entity label="99.2" degree="0.8943877816200256">Wiedemann</entity>
+  </cluster>
+  <cluster>
+    <entity label="100.3" degree="2.7698862552642822">Western Forest Products Ltd.</entity>
+    <entity label="100.2" degree="2.6637736558914185">Fletcher Challenge Canada Ltd .</entity>
+    <entity label="100.1" degree="1.8144952058792114">International Forest Products Ltd.</entity>
+    <entity label="100.4" degree="1.812261939048767">Doman Industries Ltd.</entity>
+  </cluster>
+</clusters>
